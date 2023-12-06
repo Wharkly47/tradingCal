@@ -1,0 +1,12 @@
+body {
+    background-image: url('image/trinocryp.png'); /* Remplacez 'background.jpg' par le chemin de votre image */
+    background-size: cover;
+    background-position: center;
+    color: white; /* Couleur du texte */
+}
+
+.container {
+    max-width: 600px; /* Ajustez la largeur de la zone de contenu selon vos besoins */
+    margin: auto;
+    padding: 20px;
+}
