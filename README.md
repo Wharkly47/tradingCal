@@ -47,9 +47,7 @@
 - [GitHub](https://github.com/Wharkly47)
 - [Email](mailto:wharklya@gmail.com)
 
-## TradingCal
-![TradingCal]
-(screenshoot.png)
+
 
 ## Licence
 
