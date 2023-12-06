@@ -47,10 +47,12 @@
 - [GitHub](https://github.com/Wharkly47)
 - [Email](mailto:wharklya@gmail.com)
 
+## TradingCal
+![TradingCal]
+(screenshoot.png)
+
 ## Licence
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 ```
-## TradingCal
-![TradingCal]
-(screenshoot.png)
+
