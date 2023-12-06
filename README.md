@@ -32,7 +32,7 @@
 
 1. Exécutez l'application Flask :
    ```bash
-   python3 bino.py
+   python3 trino.py
    ```
 
 2. Accédez à l'application dans votre navigateur à l'adresse [http://localhost:5000](http://localhost:5000).
@@ -52,4 +52,5 @@
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 ```
 
+![TradingCal]
 (screenshoot.png)
