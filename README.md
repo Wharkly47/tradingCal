@@ -48,8 +48,8 @@
 - [Email](mailto:wharklya@gmail.com)
 
 ## Trading
-![trading] 
-(trinocryp.png)
+
+![trading](trinocryp.png)
 
 ## Licence
 
